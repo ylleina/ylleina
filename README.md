@@ -6,7 +6,7 @@
   
 <div>
   <a href="https://github.com/ylleina"
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=ylleina&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=ylleina&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
 ![ylleina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylleina&show_icons=true&theme=github_dark_dimmed)
