@@ -27,14 +27,14 @@
 
 <br>
 
-<!--sobre mim-->
-<h2 align="center">About me 🤍</h2>
-
 <!--meu GIF 2-->
 <div>
   <img align="left" alt="gif-Ni-jogando" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif"
 </div>
 
+  <!--sobre mim-->
+<h2 align="center">About me 🤍</h2>
+  
   <ol>
     <br>
 <h4> 🤍 | Atualmente tenho 18 anos</h4>
