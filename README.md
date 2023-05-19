@@ -11,7 +11,7 @@
 
 ![ylleina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylleina&show_icons=true&theme=github_dark_dimmed)
 
-<div style="display: inline_block">
+<div align="right" style="display: inline_block">
   <img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML5-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
