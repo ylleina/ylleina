@@ -27,23 +27,25 @@
 
 <br>
 
-  <!--sobre mim-->
+<!--sobre mim-->
 <h2 align="center">About me 🤍</h2>
 
 <!--meu GIF 2-->
 <div>
-  <img align="left" alt="gif-Ni-jogando" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif">
+  <img align="left" alt="gif-Ni-jogando" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif"
 </div>
 
-<ol align="left">
-  <h4> 🤍 | Atualmente tenho 18 anos</h4>
+  <ol>
+    <br>
+<h4> 🤍 | Atualmente tenho 18 anos</h4>
 <h4> 🛠 | Técnica de Manutenção e Suporte em Informática pelo IFRN em formação</h4>
 <h4> 💻 | Comecei a estudar programação há alguns meses</h4>
 <h4> ⚙ | Estou constantemente arquitetando ideias para novos projetos</h4>
-<h4> ☕ | Adoro gatos, games e café
-  </h4>
-</ol>
+<h4> ☕ | Adoro gatos, games e café</h4>
+  </ol>
 
+  <br>
+  
 -----
 
   <!--redes sociais-->
