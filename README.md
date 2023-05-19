@@ -1,9 +1,9 @@
-## Hello hello hello! Meu nome é Anielly, mas pode me chamar de Ni 🤍
+<h1 align=center>Hello hello! Meu nome é Anielly, mas pode me chamar de Ni 🤍</h1>
   
 <div align="center">
   <img align="right" alt="gif-Ni" height="335" width="335" src="https://cdn.discordapp.com/attachments/1099524574300864553/1108857039830126794/me.gif">
 </div>
-  
+
 <div>
   <a href="https://github.com/ylleina"
   <img height="42%" src="https://github-readme-stats.vercel.app/api?username=ylleina&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
@@ -25,5 +25,5 @@
   <a href="mailto:aniellynf12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aniellynfelipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
+
 ---
