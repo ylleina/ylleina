@@ -1,4 +1,4 @@
-<h1 align=center>🤍 Hello hello! Meu nome é Anielly, mas pode me chamar de Ni 🤍</h1>
+<h1 align=center>🤍 Hello hello! Meu nome é Anielly, mas pode chamar de Ni 🤍</h1>
   
 <div align="center">
   <img align="right" alt="gif-Ni" height="335" width="335" src="https://cdn.discordapp.com/attachments/1099524574300864553/1108857039830126794/me.gif">
