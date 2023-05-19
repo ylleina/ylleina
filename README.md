@@ -6,13 +6,6 @@
   <img align="right" alt="gif-Ni" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1108857039830126794/me.gif">
 </div>
 
-  <!--Gh Stats-->
-<p align="center">
-  <a href="https://github.com/ylleina">
-    <img src="https://github-readme-stats.vercel.app/api?username=ylleina&show_icons=true&theme=github_dark_dimmed" alt="Estatísticas do GitHub" />
-  </a>
-</p> 
-
   <!--icons das linguagens-->
 <div align="center" style="display: inline_block">
   <img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +13,13 @@
   <img align="center" alt="HTML5-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+  <!--Gh Stats-->
+<p align="center">
+  <a href="https://github.com/ylleina">
+    <img src="https://github-readme-stats.vercel.app/api?username=ylleina&show_icons=true&theme=github_dark_dimmed" alt="Estatísticas do GitHub" />
+  </a>
+</p> 
 
 <br>
 <br>
