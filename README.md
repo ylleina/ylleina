@@ -18,7 +18,7 @@
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Sobre mim 🤍
+## About me 🤍
 + #### Atualmente tenho 18 anos 🤍
 + #### Técnica de Manutenção e Suporte em Informática pelo IFRN em formação 🛠🖥
 + #### Comecei a estudar programação há alguns meses 👩‍💻
