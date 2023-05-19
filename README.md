@@ -3,7 +3,7 @@
   
   <!--meu GIF 1-->
 <div>
-  <img align="right" alt="gif-Ni" height="320" width="320" src="https://cdn.discordapp.com/attachments/1099524574300864553/1108857039830126794/me.gif">
+  <img align="right" alt="gif-Ni" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1108857039830126794/me.gif">
 </div>
 
   <!--Gh Stats-->
@@ -28,7 +28,7 @@
 
 <!--meu GIF 2-->
 <div>
-  <img align="left" alt="gif-Ni-jogando" height="320" width="320" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif">
+  <img align="left" alt="gif-Ni-jogando" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif">
 </div>
 
 <ol align="left">
