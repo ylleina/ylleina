@@ -3,7 +3,7 @@
   
   <!--meu GIF 1-->
 <div>
-  <img align="right" alt="gif-Ni" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1108857039830126794/me.gif">
+  <img align="right" alt="gif-Ni" height="320" width="320" src="https://cdn.discordapp.com/attachments/1099524574300864553/1108857039830126794/me.gif">
 </div>
 
   <!--Gh Stats-->
