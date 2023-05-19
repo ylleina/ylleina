@@ -32,7 +32,7 @@
 
 <!--meu GIF 2-->
 <div>
-  <img align="left" alt="gif-Ni-jogando" height="320" width="320" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif"
+  <img align="left" alt="gif-Ni-jogando" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif"
 </div>
 
   <ol>
@@ -51,7 +51,6 @@
   <!--redes sociais-->
 <div align="center">
   <a href="https://instagram.com/ylleina.epilef/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/ylleina" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="mailto:aniellynf12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aniellynfelipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/https_niisz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
