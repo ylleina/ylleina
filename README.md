@@ -28,7 +28,7 @@
 
 <!--meu GIF 2-->
 <div>
-  <img align="left" alt="gif-Ni-jogando" height="335" width="335" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif">
+  <img align="left" alt="gif-Ni-jogando" height="320" width="320" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif">
 </div>
 
 <ol align="left">
