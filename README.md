@@ -25,10 +25,10 @@
   </a>
 </p> 
 
+<br>
+
 <!--sobre mim-->
 <h2 align="center">About me 🤍</h2>
-
-<br>
 
 <!--meu GIF 2-->
 <div>
