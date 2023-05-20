@@ -35,6 +35,8 @@
   <img align="left" alt="gif-Ni-jogando" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif"
 </div>
   
+  <br>
+  
   <div>
     <ol>
 <h4> 🤍 | Atualmente tenho 18 anos</h4>
