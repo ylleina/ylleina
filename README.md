@@ -1,5 +1,6 @@
   <!--título-->
 <h1 align=center>Hi! Meu nome é Anielly, mas pode me chamar de Ni 🤍</h1>
+
   <!--icons das linguagens-->
 <div align="center" style="display: inline_block">
   <img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,8 +9,6 @@
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br>
-
   <!--Gh Stats-->
 <p align="center">
   <a href="https://github.com/ylleina">
@@ -17,18 +16,8 @@
   </a>
 </p> 
 
-<br>
-
 <!--sobre mim-->
 <h2 align="center">About me 🤍</h2>
-
-<!--meu GIF 2-->
-<div>
-  <img align="left" alt="gif-Ni-jogando" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1109257343025303672/vg_me.gif"
-</div>
-  
-  <br>
-  
   <div>
     <ol>
 <h4> 🤍 | Atualmente tenho 18 anos</h4>
