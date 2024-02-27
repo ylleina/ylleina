@@ -1,13 +1,5 @@
   <!--título-->
-<h1 align=center>🤍 Hello hello! Meu nome é Anielly, mas pode chamar de Ni 🤍</h1>
-  
-  <!--meu GIF 1-->
-<div>
-  <img align="right" alt="gif-Ni" height="325" width="325" src="https://cdn.discordapp.com/attachments/1099524574300864553/1108857039830126794/me.gif">
-</div>
-
-<br>
-
+<h1 align=center>Hi! Meu nome é Anielly, mas pode me chamar de Ni 🤍</h1>
   <!--icons das linguagens-->
 <div align="center" style="display: inline_block">
   <img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
