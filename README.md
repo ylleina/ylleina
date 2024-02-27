@@ -18,20 +18,6 @@
   </a>
 </p> 
 
-<!--sobre mim-->
-<h2 align="center">About me 🤍</h2>
-  <div>
-    <ol>
-<h4> 🤍 | Atualmente tenho 18 anos</h4>
-<h4> 🛠 | Técnica de Manutenção e Suporte em Informática pelo IFRN em formação</h4>
-<h4> 💻 | Comecei a estudar programação há alguns meses</h4>
-<h4> ⚙ | Estou constantemente arquitetando ideias para novos projetos</h4>
-<h4> ☕ | Adoro gatos, games e café</h4>
-  </ol>
-  </div>
-  
-  <br>
-  
 -----
 
   <!--redes sociais-->
